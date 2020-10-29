@@ -1,0 +1,10 @@
+C:\DataLab\Tim\Reserve01\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\bin\Debug\WiredBrainCoffee.ShopInfoTool.exe.config
+C:\DataLab\Tim\Reserve01\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\bin\Debug\WiredBrainCoffee.ShopInfoTool.exe
+C:\DataLab\Tim\Reserve01\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\bin\Debug\WiredBrainCoffee.ShopInfoTool.pdb
+C:\DataLab\Tim\Reserve01\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\bin\Debug\WiredBrainCoffee.DataAccess.dll
+C:\DataLab\Tim\Reserve01\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\bin\Debug\WiredBrainCoffee.DataAccess.pdb
+C:\DataLab\Tim\Reserve01\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\obj\Debug\WiredBrainCoffee.ShopInfoTool.csprojAssemblyReference.cache
+C:\DataLab\Tim\Reserve01\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\obj\Debug\WiredBrainCoffee.ShopInfoTool.csproj.CoreCompileInputs.cache
+C:\DataLab\Tim\Reserve01\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\obj\Debug\WiredBrainCoffee.ShopInfoTool.csproj.CopyComplete
+C:\DataLab\Tim\Reserve01\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\obj\Debug\WiredBrainCoffee.ShopInfoTool.exe
+C:\DataLab\Tim\Reserve01\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\obj\Debug\WiredBrainCoffee.ShopInfoTool.pdb
