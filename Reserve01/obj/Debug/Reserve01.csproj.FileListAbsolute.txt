@@ -1,0 +1,14 @@
+C:\Users\Sara\source\repos\Reserve01\Reserve01\obj\Debug\Reserve01.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\Reserve01\Reserve01\bin\Debug\Reserve01.exe.config
+C:\Users\Sara\source\repos\Reserve01\Reserve01\bin\Debug\Reserve01.exe
+C:\Users\Sara\source\repos\Reserve01\Reserve01\bin\Debug\Reserve01.pdb
+C:\Users\Sara\source\repos\Reserve01\Reserve01\obj\Debug\Reserve01.exe
+C:\Users\Sara\source\repos\Reserve01\Reserve01\obj\Debug\Reserve01.pdb
+C:\Users\Sara\source\repos\Reserve01\Reserve01\obj\Debug\Reserve01.csprojAssemblyReference.cache
+C:\DataLab\Reserve01\Reserve01\bin\Debug\Reserve01.exe.config
+C:\DataLab\Reserve01\Reserve01\bin\Debug\Reserve01.exe
+C:\DataLab\Reserve01\Reserve01\bin\Debug\Reserve01.pdb
+C:\DataLab\Reserve01\Reserve01\obj\Debug\Reserve01.csprojAssemblyReference.cache
+C:\DataLab\Reserve01\Reserve01\obj\Debug\Reserve01.csproj.CoreCompileInputs.cache
+C:\DataLab\Reserve01\Reserve01\obj\Debug\Reserve01.exe
+C:\DataLab\Reserve01\Reserve01\obj\Debug\Reserve01.pdb
